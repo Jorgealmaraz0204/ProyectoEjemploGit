@@ -82,7 +82,7 @@ Conecta el repositorio local al remoto:
 
 bash
 Copiar código
-git remote add origin https://github.com/tu_usuario/ProyectoEjemploGit.git
+git remote add origin https://github.com/jorge.sanchez@cua.uam.mx/ProyectoEjemploGit.git
 Sube los cambios al repositorio remoto:
 
 bash
